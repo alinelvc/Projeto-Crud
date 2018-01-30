@@ -1,0 +1,113 @@
+#menu{
+  background-color: rgb(19, 109, 99);
+}
+#navbar ul li a {
+    color: rgb(220, 228, 241);
+    background-color: rgb(19, 109, 99);
+    font-size: 18px;
+}
+#navbar ul li a:hover {
+  background-color: rgb(0, 130, 130);
+}
+.banner{
+  background-position:center;
+  background-size: 100% 100%;
+  height:350px;
+  width: 350px;
+}
+#rodape{
+  background-color: rgb(19, 109, 99);
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  margin-top: 2%;
+  margin-bottom: 0;
+  float: left;
+  display: block;
+  width: 100%;
+  color: white;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: normal;
+  
+}
+.h3-sis{
+  margin-top: 23%; 
+}
+
+.imagem{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.comentario{
+  margin: 1%;
+}
+.cinza{
+  color: 
+}
+#home .jumbotron{
+  background: url(../imagens/produto.jpg);
+  background-size: 100% 100%;
+}
+.sisgurt{
+  background: url(../imagens/sisgurt.png);
+}
+.centro{
+  text-align: center;
+}
+#home h1{
+ font-family: 'Open Sans';
+ color: white;
+}
+.formGreen:hover{
+  color: rgb(0, 130, 130);
+  background-color: white;
+}
+.botaoGreen {
+   font-family: 'Open Sans';
+   font-size: 16px;
+   text-decoration: none;
+   text-transform: uppercase;
+   font-weight: normal;
+   color: rgb(19, 109, 99);
+   border: solid 3px;
+}
+.alter{
+  font-family: 'Open Sans';
+   text-decoration: none;
+   font-weight: normal;
+   color: rgb(19, 109, 99);
+}
+.formGreen {
+   font-family: 'Open Sans';
+   font-size: 16px;
+   text-decoration: none;
+   font-weight: normal;
+   color: rgb(19, 109, 99);
+   border: solid 2px;
+}
+.margin-b{
+  margin: 0.3%;
+}
+.h4{
+  color: #7C7A7A;
+}
+#btn_login{
+  margin-left: 28%;
+  color: rgb(19, 109, 99);
+}
+.p-login{
+  color: rgb(19, 109, 99);
+  margin-left: 32%;
+  font-size: 16px; 
+}
+.cor{
+  color: rgb(19, 109, 99);
+}
+
+.painel{
+  background-position:center;
+  background-size: 100% 100%;
+  height: 315px;
+  width: 450px;
+}
